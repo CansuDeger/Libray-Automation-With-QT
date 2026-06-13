@@ -1,0 +1,12 @@
+debug/kitapp.o
+debug/main.o
+debug/mainwindow.o
+debug/odunc_alma.o
+debug/teslim.o
+debug/uyeler.o
+debug/qrc_Resources.o
+debug/moc_kitapp.o
+debug/moc_mainwindow.o
+debug/moc_odunc_alma.o
+debug/moc_teslim.o
+debug/moc_uyeler.o

@@ -1,0 +1,12 @@
+release/kitapp.o
+release/main.o
+release/mainwindow.o
+release/odunc_alma.o
+release/teslim.o
+release/uyeler.o
+release/qrc_Resources.o
+release/moc_kitapp.o
+release/moc_mainwindow.o
+release/moc_odunc_alma.o
+release/moc_teslim.o
+release/moc_uyeler.o
